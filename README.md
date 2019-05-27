@@ -1,0 +1,1 @@
+# test_Cortex-A7
